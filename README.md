@@ -15,3 +15,6 @@ Wireshark is like an X-ray machine for computer networks - and a powerful one at
 - Security Analysts to review intrusion attempts and validate internal controls.
 - Forensic Analysts to gain insights into security breaches and malware distributions.
 - Penetration Testers to search for sensitive information that may give them a foothold in a target network.
+
+
+# Lab capture and analyze network traffic using Wireshark. 
